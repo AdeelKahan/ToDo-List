@@ -1,4 +1,3 @@
 # ToDo-List 
-npx expo start //for run the application
- 
-
+First: npm install // after clone repo
+npx expo start // second run this command on vscode for run the app
